@@ -13,8 +13,8 @@ department.addEventListener('click', (event) => {
 });
 
 food.addEventListener('click', (event) => {
-    result1.innerHTML = '<p>멜젓파스타</p><img src="https://juyoung1520.github.io/introduce/멜젓파스타.jpg" style = "size : auto;">';
-    result2.innerHTML = '<p>바질 크림 고구마 파니니 (짱맛...*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*) </p><img src="https://juyoung1520.github.io/introduce/바질고구마파니니.jpeg" style="max-width: 90%; height: auto;">'
+    result1.innerHTML = '<p>멜젓파스타</p><img src="./멜젓파스타.jpg" style = "size : auto;">';
+    result2.innerHTML = '<p>바질 크림 고구마 파니니 (짱맛...*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*) </p><img src="./바질고구마파니니.jpeg" style="max-width: 90%; height: auto;">'
 });
 
 drama.addEventListener('click', (event) => {
